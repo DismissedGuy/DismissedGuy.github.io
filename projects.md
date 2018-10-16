@@ -2,6 +2,15 @@
 title: Projects
 ---
 
-## My Projects
-On this page, I show you all the projects I've made or worked on.
-If for some reason the page won't load, check whether you have JavaScript enabled and are using a reasonable browser. Yes, that excludes IE.
+<h2>My Projects</h2>
+
+<p>On this page, I show you all the projects I've made or worked on.
+If for some reason the page won't load, check whether you have JavaScript enabled and are using a reasonable browser. Yes, that excludes IE.</p>
+
+<h3>Original projects</h3>
+
+<p>Add JS to load projects here</p>
+
+<h3>Forked projects</h3>
+
+<p>Add JS to load projects here</p>
