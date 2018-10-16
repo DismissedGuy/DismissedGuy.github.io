@@ -11,6 +11,6 @@ title: Welcome!
     <h2>Welcome!</h2>
       <p>On this page, I will post my GitHub projects. Feel free to look around while it's not finished yet!</p>
     <h2>My GitHub Profile</h2>
-      <div class="github-widget" data-username="surbhioberoi"></div>
+      <div class="github-widget" data-username="DismissedGuy"></div>
   </body>
 </html>
