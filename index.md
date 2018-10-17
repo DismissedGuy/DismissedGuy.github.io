@@ -14,6 +14,6 @@ title: Welcome!
       <div class="github-widget" data-username="DismissedGuy"></div>
     <h2>Discord Server</h2>
       <p>For help, general chitchat or to find friends</p>
-      <iframe src="https://discordapp.com/widget?id=340929662131765259&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
+      <iframe src="https://discordapp.com/widget?id=340929662131765259&theme=light" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
   </body>
 </html>
